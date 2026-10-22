@@ -1,0 +1,2502 @@
+[
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the normal rectal temperature range for a dog or cat?",
+    "back": "38.0 to 39.2 degrees C. A reading above 41 without infection suggests hyperthermia and is an emergency."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the normal resting heart rate range of an adult dog?",
+    "back": "About 60 to 140 beats per minute. Small dogs and puppies run higher."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the normal resting heart rate range of a cat?",
+    "back": "About 140 to 220 beats per minute."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the normal respiratory rate of a dog and of a cat?",
+    "back": "Dog: 10 to 30 breaths per minute. Cat: 20 to 30 breaths per minute."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are normal TPR values for an adult horse?",
+    "back": "Temperature 37.2 to 38.5 degrees C, heart rate 28 to 44 per minute, respiratory rate 8 to 16 per minute."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are normal TPR values for an adult cow?",
+    "back": "Temperature 38.0 to 39.3 degrees C, heart rate 48 to 84 per minute, respiratory rate 10 to 30 per minute."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What do pale mucous membranes suggest?",
+    "back": "Anemia or poor perfusion, for example from blood loss or shock."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What do icteric (yellow) mucous membranes suggest?",
+    "back": "Liver disease or excess red cell breakdown (hemolysis) causing high bilirubin."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are the parts of a SOAP medical record entry?",
+    "back": "Subjective (history), Objective (measurements and exam), Assessment and Plan."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Why must you document every procedure and observation in the record?",
+    "back": "The medical record is a legal document. If it is not written, it is treated as not done."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How much dehydration is clinically detectable, and how do signs change at 8 percent?",
+    "back": "Detectable at about 5 percent with tacky gums. At 8 percent there is a slow skin tent and sunken eyes."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which patients give an unreliable skin tent test for hydration?",
+    "back": "Obese, very thin and older animals."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the ideal score on a 9 point body condition scale?",
+    "back": "4 to 5 out of 9. On a 5 point scale the ideal is 3."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What body features show an ideal body condition in a dog?",
+    "back": "Ribs felt with light pressure and a visible waist when viewed from above."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How do you calculate resting energy requirement (RER) for a 2 to 45 kg animal?",
+    "back": "RER in kcal per day = 30 x body weight in kg + 70. For 10 kg that is 370 kcal."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the general formula for RER?",
+    "back": "RER = 70 x body weight in kg raised to the power of 0.75. For 10 kg that is about 394 kcal per day."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which condition can develop in a cat that stops eating for several days?",
+    "back": "Hepatic lipidosis, a fatty liver disease, so anorectic cats need nutrition early."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "When is a feeding tube used?",
+    "back": "When the gut works but the patient will not or cannot eat enough on its own."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What do you do before each tube feeding?",
+    "back": "Check tube placement, flush with a small amount of water and warm the food to body temperature."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which behaviours suggest a dog is in pain?",
+    "back": "Whimpering, guarding an area, panting, hiding or becoming aggressive."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which behaviours suggest a cat is in pain?",
+    "back": "Hiding, hunching, stopping grooming, flattened ears and avoiding touch."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which pain scale is designed for cats and uses facial features?",
+    "back": "The Feline Grimace Scale, which scores ears, orbits, muzzle, whiskers and head position."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How does pain change vital signs?",
+    "back": "It raises heart rate, respiratory rate and blood pressure."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the rule for sterile technique when placing a urinary catheter?",
+    "back": "Use sterile gloves, a sterile catheter and lubricant, clean the genital area first, and never force the catheter."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Where should the collection bag of an indwelling urinary catheter be kept?",
+    "back": "Below the level of the bladder so urine drains by gravity, with a closed collection system."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is normal urine output in a hydrated dog or cat?",
+    "back": "About 1 to 2 mL per kg per hour. Under 1 mL per kg per hour on fluids is a warning sign."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are the 4 phases of wound healing?",
+    "back": "Inflammation, debridement, repair (new tissue) and maturation."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are the 4 wound classes?",
+    "back": "Clean, clean-contaminated, contaminated and dirty."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the golden period of a wound?",
+    "back": "About 6 hours, after which bacteria multiply enough that the wound is treated as contaminated."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What do you do first for a wound before clipping the hair?",
+    "back": "Fill the wound with sterile water-soluble gel or cover it with a sterile moist dressing so hair stays out."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What fluid is used for wound lavage?",
+    "back": "Warm sterile saline or lactated Ringer's solution. Chlorhexidine diluted to 0.05 percent is also safe."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How is a safe lavage pressure of about 7 to 8 psi made?",
+    "back": "With a 35 mL syringe and an 18 gauge needle."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which wound dressing is used in the debridement phase?",
+    "back": "An adherent wet-to-dry dressing, which pulls off dead tissue when removed."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which wound dressing is used in the repair phase?",
+    "back": "A nonadherent moist dressing so new tissue is not torn off."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are the 3 layers of a bandage?",
+    "back": "Primary (contact) layer, secondary (padding) layer and tertiary (outer holding) layer."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Why do you leave the toes of a bandaged limb visible?",
+    "back": "So you can check for swelling, coolness or colour change that shows the bandage is too tight."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "In which direction is a limb bandage applied?",
+    "back": "From the distal end (toes) up to the proximal end so swelling is not trapped below the wrap."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What signs suggest a bandage is too tight?",
+    "back": "Swollen or spread toes, a cold limb, and a patient that licks or chews the bandage."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "When must you change a bandage?",
+    "back": "When it is wet, soiled, slipping or smelly, and at least as often as the veterinarian orders."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the maintenance fluid rate for dogs and cats?",
+    "back": "About 40 to 60 mL per kg per day."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How do you calculate a fluid deficit in mL?",
+    "back": "Percent dehydration as a decimal x body weight in kg x 1000. For 8 percent in 10 kg that is 800 mL."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How do you calculate drops per minute for an IV drip?",
+    "back": "(mL per hour x drops per mL of the set) divided by 60."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "A 20 kg dog needs 60 mL per kg per day. What is the hourly rate?",
+    "back": "20 x 60 = 1200 mL per day, and 1200 divided by 24 is 50 mL per hour."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "With a 15 drops per mL set, what drip rate gives 50 mL per hour?",
+    "back": "(50 x 15) divided by 60 = 12.5 drops per minute."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How many drops per mL does a pediatric (micro) drip set deliver?",
+    "back": "60 drops per mL."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What signs suggest fluid overload?",
+    "back": "Serous nasal discharge, chemosis, coughing, a rising respiratory rate and weight gain."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How often should a recumbent patient be turned?",
+    "back": "About every 4 hours, with padding on bony points and clean, dry bedding."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "When are cold packs used on an injury?",
+    "back": "In the first 24 to 72 hours to reduce swelling. Heat is used later to relax muscle."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Why does a cuff that is too narrow give a false blood pressure reading?",
+    "back": "It reads falsely high. A cuff that is too wide reads falsely low."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What cuff width is correct for blood pressure measurement?",
+    "back": "About 30 to 40 percent of the limb circumference."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What does the Doppler method measure in a dog or cat?",
+    "back": "Systolic blood pressure, using an ultrasound probe over an artery with a cuff."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What systolic pressure in a dog or cat is considered hypertension?",
+    "back": "Above about 160 mmHg."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What mean arterial pressure shows organs may not be perfused?",
+    "back": "A mean below about 60 mmHg."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How should the cuff be positioned during blood pressure measurement?",
+    "back": "At heart level, on a calm patient, with several readings averaged."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "In what position is a patient placed for an ECG?",
+    "back": "Right lateral recumbency with the limbs parallel and relaxed."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are the standard ECG lead colours?",
+    "back": "White right front, black left front, red left rear and green right rear."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which ECG lead is used to evaluate rhythm?",
+    "back": "Lead II."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are standard ECG paper speeds and calibration?",
+    "back": "25 or 50 mm per second, with a calibration of 10 mm equal to 1 mV."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How do you find heart rate from a 6 second ECG strip?",
+    "back": "Count the complexes and multiply by 10."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which patient actions cause ECG artifact?",
+    "back": "Purring, panting, shivering and movement."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What does tonometry measure?",
+    "back": "Intraocular pressure. Normal in dogs and cats is about 10 to 25 mmHg."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What condition does high intraocular pressure suggest?",
+    "back": "Glaucoma, a painful emergency."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Why must you avoid pressure on the globe during tonometry?",
+    "back": "Pressing the eyelids against the globe falsely raises the reading."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What does the Schirmer tear test measure and what is normal in a dog?",
+    "back": "Tear production, normally 15 mm per minute or more in dogs."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "When is the Schirmer test done relative to eye drops?",
+    "back": "Before any drops or fluorescein are put in the eye."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What does fluorescein stain show?",
+    "back": "A corneal ulcer, which stains green. Rinse the eye afterward."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is a normal SpO2 on room air?",
+    "back": "95 percent or higher."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What are the rights of medication administration?",
+    "back": "Right patient, drug, dose, route, time and documentation."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which sites are used for IM injection in a dog or cat?",
+    "back": "Quadriceps, lumbar epaxial muscles and hamstring muscles, avoiding the sciatic nerve."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Why do you pull back on the plunger before an IM injection?",
+    "back": "To check that the needle is not in a blood vessel."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which route gives the fastest drug effect?",
+    "back": "Intravenous."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is extravasation?",
+    "back": "Leakage of an IV drug out of the vein into surrounding tissue, which can cause tissue damage."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which veins are used for IV catheters in dogs and cats?",
+    "back": "Cephalic, lateral saphenous and jugular."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the order of eye medications when giving both drops and ointment?",
+    "back": "Drops first, then ointment after about 5 minutes."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Why give a water flush after a pill in a cat?",
+    "back": "To help it pass into the stomach and prevent esophageal stricture, for example from doxycycline."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which are the recommended feline vaccine sites?",
+    "back": "FVRCP right front limb, rabies right rear limb and FeLV left rear limb."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How do you calculate the volume of a drug to give?",
+    "back": "Volume in mL = dose in mg per kg x weight in kg divided by concentration in mg per mL."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "A 24 kg dog needs 2 mg per kg and the drug is 50 mg per mL. What volume?",
+    "back": "2 x 24 = 48 mg, and 48 divided by 50 = 0.96 mL."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How do you convert pounds to kilograms?",
+    "back": "Divide by 2.2. For 22 lb that is 10 kg."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How many mg per mL is a 1 percent solution?",
+    "back": "10 mg per mL, since 1 percent is 1 g per 100 mL."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How do you dilute 50 percent dextrose to 5 percent?",
+    "back": "Mix 1 part of the 50 percent dextrose with 9 parts of fluid, a 1 to 10 dilution."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which Canadian law controls opioids, ketamine and benzodiazepines?",
+    "back": "The Controlled Drugs and Substances Act. Keep these locked with a log of every dose and a regular count."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What do you do if a controlled drug count is off?",
+    "back": "Report the discrepancy to the veterinarian right away."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the blood tube additive for a CBC?",
+    "back": "EDTA, in a lavender top tube."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which tube is used for coagulation tests and what is its fill rule?",
+    "back": "Light blue top (sodium citrate), filled exactly to the line for a 9 to 1 blood to citrate ratio."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which tube preserves glucose?",
+    "back": "Grey top, which contains fluoride."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "When drawing several tubes from one venipuncture on a hospitalized patient, which tube is filled first?",
+    "back": "A blood culture bottle comes first when collected, so later additives cannot contaminate it; then citrate, serum, heparin, EDTA and fluoride."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How much blood can a healthy animal safely lose in one collection?",
+    "back": "About 10 mL per kg of body weight."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "How is capillary refill time (CRT) checked and what is normal in a dog or cat?",
+    "back": "Press the gum until it blanches, release, and time the return of pink colour. Normal CRT is under 2 seconds; prolonged CRT suggests poor perfusion and a slow return."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the difference between cleaning and disinfecting?",
+    "back": "Cleaning removes dirt and organic matter. Disinfecting kills microbes and works only on a clean surface."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What disinfectant dilution is commonly used for canine parvovirus?",
+    "back": "Bleach at about 1 part in 32, with the label contact time. Parvovirus survives for months."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Why must bleach never be mixed with ammonia or acids?",
+    "back": "Toxic gas forms."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "In what order do you care for patients in an infectious disease outbreak?",
+    "back": "Healthy patients first and infectious patients last, with separate gloves and gowns."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the rule on recapping needles?",
+    "back": "Do not recap a needle with two hands. Dispose of sharps in a puncture proof container."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Who handles reportable and immediately notifiable animal diseases in Canada?",
+    "back": "The Canadian Food Inspection Agency. Tell the veterinarian right away if you suspect one."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Which body signals show a fearful dog?",
+    "back": "Ears back, tucked tail, lip licking, yawning, whale eye and turning away."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "When should a muzzle not be used on a dog?",
+    "back": "When the dog is vomiting, is having trouble breathing, or is brachycephalic without close monitoring."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "What is the safe way to restrain a rabbit?",
+    "back": "Support the hindquarters at all times and wrap in a towel, since a kick can fracture the spine."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Why must you never compress the keel of a bird?",
+    "back": "Birds have no diaphragm and breathe by moving the chest, so compression stops breathing."
+  },
+  {
+    "domain": "animal_care_and_nursing",
+    "front": "Where do you stand when approaching a horse and why?",
+    "back": "At the left shoulder with a hand on the animal, not behind it, to avoid the kick zone."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is bioavailability?",
+    "back": "The fraction of a dose that reaches the systemic circulation. IV gives 100 percent because it skips absorption."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Which route gives the fastest onset?",
+    "back": "Intravenous. It skips absorption, so the drug is in the circulation at once."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Why is IV preferred over SQ or IM in a patient in shock?",
+    "back": "Poor perfusion slows absorption from muscle and skin, so IM and SQ drugs act slowly and unpredictably."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the first-pass effect?",
+    "back": "An oral drug travels by the portal vein to the liver first, where part of it may be broken down before reaching the rest of the body."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Why can low albumin make a normal dose act like an overdose?",
+    "back": "Many drugs bind albumin and only the unbound part is active, so less binding leaves more active drug."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Which species lacks glucuronidation, and what drug is the classic danger?",
+    "back": "Cats. Acetaminophen is toxic to cats, and aspirin clears very slowly in them."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Which gene mutation makes collies sensitive to ivermectin and loperamide?",
+    "back": "The MDR1 (ABCB1) mutation, which lets drugs enter the brain and cause neurologic signs."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Why must a dog flea product containing permethrin never be used on a cat?",
+    "back": "Pyrethroids can cause tremors and seizures in cats."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Why must doxycycline tablets be followed by water in cats?",
+    "back": "The tablet can lodge in the esophagus and cause esophagitis and strictures."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "When is the intraosseous route used?",
+    "back": "When IV access cannot be obtained in a small or collapsed patient. The veterinarian or a supervised person places it."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What are the five rights of medication?",
+    "back": "Right patient, drug, dose, route and time. Right documentation is added as a sixth."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "At what points should you check a drug label?",
+    "back": "When taking it from storage, when drawing it up, and before giving it."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What does a complete drug order contain?",
+    "back": "The patient, drug, dose, route, frequency and duration. If any part is unclear, ask the veterinarian before acting."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What do OD, OS and OU mean?",
+    "back": "OD is the right eye, OS the left eye, and OU both eyes."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the usual concentration of veterinary insulin and the matching syringe?",
+    "back": "U-40 (40 units per mL) with a U-40 syringe. Human U-100 insulin needs a U-100 syringe."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What happens if a U-100 syringe is used for U-40 insulin?",
+    "back": "The animal receives well under half the intended dose, so the syringe must always match the insulin."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "How many mg/mL is a 1 percent solution?",
+    "back": "10 mg/mL, because 1 g is in 100 mL. Multiply the percent by 10."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "How many mg/mL is a 2 percent lidocaine solution?",
+    "back": "20 mg/mL."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What concentration is a 1:1,000 solution?",
+    "back": "1 mg/mL, because 1 g is in 1,000 mL. A 1:10,000 solution is 0.1 mg/mL."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Give the four steps of a dose calculation.",
+    "back": "Convert weight to kg, multiply mg/kg by kg for the dose in mg, divide by mg/mL for the volume, then check that the answer is reasonable."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "A 10 kg dog needs 1 mg/kg of a drug at 10 mg/mL. What volume do you draw up?",
+    "back": "Dose is 10 mg, and 10 mg divided by 10 mg/mL = 1 mL."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "A 4.5 kg cat needs 0.02 mg/kg buprenorphine at 0.3 mg/mL. What volume?",
+    "back": "0.02 x 4.5 = 0.09 mg, and 0.09 divided by 0.3 = 0.3 mL."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "A calculated dose gives 1.25 tablets. What do you do?",
+    "back": "Tell the veterinarian, who decides on another strength or a rounded dose. Do not round on your own."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What equation is used for dilutions?",
+    "back": "C1 x V1 = C2 x V2."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "How much 50 percent dextrose makes 100 mL of 5 percent dextrose?",
+    "back": "50 x V1 = 5 x 100, so V1 = 10 mL, added to 90 mL of diluent."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Why is 5 percent dextrose in water not used for resuscitation?",
+    "back": "The dextrose is metabolized, leaving free water, so it does not expand the vascular volume."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the usual teaching range for maintenance fluids in dogs and cats?",
+    "back": "About 40 to 60 mL/kg/day, with 60 mL/kg/day a common figure. The veterinarian's order rules."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the dehydration deficit formula?",
+    "back": "Body weight in kg x percent dehydration as a decimal x 1,000 = mL."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "A 10 kg dog is 8 percent dehydrated. What is the deficit?",
+    "back": "10 x 0.08 x 1,000 = 800 mL."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the maintenance rate in mL/hr for a 10 kg dog at 60 mL/kg/day?",
+    "back": "600 mL per day divided by 24 = 25 mL/hr."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the typical shock bolus range for dogs and cats?",
+    "back": "Up to 90 mL/kg in dogs and 40 to 60 mL/kg in cats, given in aliquots of one quarter to one third, then reassess."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "List signs of fluid overload.",
+    "back": "Serous nasal discharge, chemosis, increased respiratory rate and effort, cough and peripheral edema. Slow or stop fluids and tell the veterinarian."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the drip rate formula?",
+    "back": "Drops per minute = volume in mL x drip set in drops/mL divided by time in minutes."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Deliver 500 mL over 4 hours with a 15 drops/mL set. What is the rate?",
+    "back": "500 x 15 = 7,500 divided by 240 minutes = about 31 drops per minute."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What are the steps of a CRI calculation in mcg/kg/min?",
+    "back": "Rate x kg gives mcg/min, multiply by 60 for mcg/hr, then divide by the concentration in mcg/mL to get mL/hr."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "A 20 kg dog gets lidocaine 50 mcg/kg/min from a 2 percent solution. What is the rate?",
+    "back": "1,000 mcg/min x 60 = 60,000 mcg/hr, divided by 20,000 mcg/mL = 3 mL/hr."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the maximum rate of potassium delivery in fluids?",
+    "back": "0.5 mEq/kg/hr. Never give concentrated potassium as an IV push."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What are the main risks of NSAIDs such as carprofen and meloxicam?",
+    "back": "Gastrointestinal ulceration and kidney injury, and less often liver injury. Do not combine with corticosteroids or another NSAID."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Which common human drug is toxic to cats and should never be given?",
+    "back": "Acetaminophen, which damages red blood cells and causes methemoglobinemia."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Which opioid is a partial agonist and which is an agonist-antagonist?",
+    "back": "Buprenorphine is a partial agonist and butorphanol is an agonist-antagonist."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What are the common side effects of opioids?",
+    "back": "Sedation, respiratory depression, bradycardia, panting, vomiting and constipation. Cats may show excitement at high doses."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What reverses opioids, and what is the drawback?",
+    "back": "Naloxone. It also reverses the pain relief."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What are the cardiovascular effects of alpha-2 agonists?",
+    "back": "Bradycardia, vasoconstriction and decreased cardiac output."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Which drugs reverse dexmedetomidine and xylazine?",
+    "back": "Atipamezole reverses dexmedetomidine, and yohimbine can reverse xylazine."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the main drawback of acepromazine?",
+    "back": "It causes hypotension and gives no analgesia, so use care in hypovolemic patients."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What are expected side effects of prednisone?",
+    "back": "Increased thirst, urination and appetite, with infection risk and skin thinning in long courses. Do not stop long-term steroids suddenly."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Why is prednisolone usually used in cats instead of prednisone?",
+    "back": "Cats convert prednisone poorly to its active form."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What are the risks of fluoroquinolones?",
+    "back": "Cartilage damage in growing dogs and blindness in cats at high doses."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What has been required in Canada for medically important antimicrobials since December 2018?",
+    "back": "A veterinary prescription."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the antidote for anticoagulant rodenticide?",
+    "back": "Vitamin K1."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is the antidote for ethylene glycol in dogs?",
+    "back": "Fomepizole, given early. Antifreeze causes kidney failure."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What does xylitol cause in dogs?",
+    "back": "Severe low blood sugar and liver injury."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What epinephrine dose is used in anaphylaxis, and what volume is that per 10 kg of a 1 mg/mL solution?",
+    "back": "0.01 mg/kg, which is 0.1 mL per 10 kg. Ordered by the veterinarian."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What must appear on a dispensed medication label?",
+    "back": "Clinic, client and patient, drug name, strength and quantity, directions, date, expiry, veterinarian and any cautions."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What is a withdrawal time?",
+    "back": "The period after the last dose before meat, milk or eggs from a treated food animal may be sold."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Which Canadian law governs opioids, ketamine, benzodiazepines and barbiturates?",
+    "back": "The federal Controlled Drugs and Substances Act (CDSA) and its regulations."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What does a controlled drug log entry record?",
+    "back": "Date, patient and client, drug, amount used and wasted, who gave it, who ordered it and the new running balance."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "How do you correct an error in a controlled drug logbook?",
+    "back": "Draw a single line through it and initial it. Never erase or cover it."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What do you do if a controlled drug count does not match the logbook?",
+    "back": "Report at once to the supervising veterinarian so it is investigated. Loss or theft is reported to Health Canada and police as required."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What does WHMIS 2015 use to communicate chemical hazards?",
+    "back": "Hazard pictograms, supplier labels and Safety Data Sheets, which have 16 sections."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "At what temperature are refrigerated drugs and vaccines kept, and what must never happen?",
+    "back": "2 to 8 degrees C, and they must not be frozen."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "Where should vaccines be given in cats, and why?",
+    "back": "In the distal limb, with the site recorded, because of injection-site sarcoma risk."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What PPE and waste routes apply to chemotherapy drugs?",
+    "back": "Chemotherapy-rated gloves, gown and eye protection, with waste in a labelled cytotoxic container. Pregnant staff should avoid handling."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "How should unwanted drugs be disposed of?",
+    "back": "By the clinic's pharmaceutical waste or take-back arrangement. Never flush them."
+  },
+  {
+    "domain": "pharmacy_and_pharmacology",
+    "front": "What do you do first when an order is unclear or looks unsafe?",
+    "back": "Ask the veterinarian before acting."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which layer of the ventral abdominal wall is the main holding layer in a midline closure?",
+    "back": "The linea alba, the avascular fibrous midline. It is closed with suture that keeps its strength until healing is secure."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What is removed in an ovariohysterectomy?",
+    "back": "Both ovaries and the uterus. The ovarian pedicles are ligated and the uterine body is ligated just cranial to the cervix."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What structures in the ovarian pedicle must be ligated to prevent hemorrhage?",
+    "back": "The ovarian artery and vein, held within the ovarian pedicle."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What does the spermatic cord contain that must be ligated in a castration?",
+    "back": "The testicular vessels and the ductus deferens."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Name four patient factors that slow wound healing.",
+    "back": "Poor nutrition or low protein, anemia, steroid use or diabetes, obesity, infection and hypothermia are all taught as slowing healing."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Why does hypothermia matter to a surgical patient?",
+    "back": "A cold patient clots poorly, heals slowly, recovers slowly and has a higher infection risk."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Classify a routine spay by contamination.",
+    "back": "Clean: no inflammation and no entry into the gastrointestinal, respiratory or urinary tract."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Classify a cystotomy with sterile urine.",
+    "back": "Clean-contaminated: a hollow organ is entered under control with minimal spillage."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Classify surgery on an existing abscess or ruptured bowel.",
+    "back": "Dirty: infection already exists at the site."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What are the phases of wound healing in order?",
+    "back": "Inflammatory (debridement), repair (proliferative), then maturation (remodelling)."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "How long does the inflammatory phase of wound healing last?",
+    "back": "About the first 3 to 5 days."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "When does granulation tissue begin forming?",
+    "back": "About day 3 to 5, during the repair phase, when fibroblasts lay down collagen."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What is healing by first intention?",
+    "back": "Primary closure: the wound edges are brought together right away."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What is delayed primary closure?",
+    "back": "The wound is left open for a few days, often bandaged, and closed once infection risk has fallen."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What is the golden period for a traumatic wound?",
+    "back": "The first few hours, commonly taught as about 6, when the wound can usually still be closed."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "When does incision dehiscence most often occur?",
+    "back": "Around days 3 to 5, especially in an overactive patient or after suture failure."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What prevents most self-trauma to a surgical incision?",
+    "back": "An Elizabethan collar plus restricted exercise."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which scalpel blades fit a No. 3 Bard-Parker handle?",
+    "back": "Blades 10, 11, 12 and 15."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which scalpel handle takes blades 20 to 25?",
+    "back": "The No. 4 handle."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "How should a scalpel blade be removed from its handle?",
+    "back": "With a hemostat or needle holder, never by hand."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which scissors cut suture and heavy tissue, Mayo or Metzenbaum?",
+    "back": "Mayo scissors. Metzenbaum scissors are light and for dissecting delicate tissue only."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What is the common needle holder with a locking ratchet?",
+    "back": "The Mayo-Hegar needle holder."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which hemostats are larger and used on pedicles?",
+    "back": "Rochester-Carmalt forceps. Mosquito hemostats are the smallest."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which tissue forceps is atraumatic and used on intestine?",
+    "back": "The Babcock forceps. Allis forceps have teeth and are traumatic."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What do Backhaus towel clamps do?",
+    "back": "Hold drapes in place by piercing them."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Name two self-retaining retractors.",
+    "back": "Balfour and Gelpi. Senn and Army-Navy retractors are hand-held."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "How should hinged instruments be wrapped for sterilization?",
+    "back": "With hinges open and ratchets unlocked so steam reaches all surfaces."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Why rinse instruments right after use?",
+    "back": "Dried blood and protein shield microbes from sterilization, and hot water bakes protein on."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "How does an ultrasonic cleaner work?",
+    "back": "It uses cavitation, tiny bubbles, to dislodge debris. Do not mix metals or use plain saline."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What should hinged instruments be lubricated with?",
+    "back": "A water-soluble instrument lubricant ('milk'), not oil."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Why avoid saline and bleach soaks on stainless steel instruments?",
+    "back": "Chlorides cause pitting and corrosion."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What is the difference between sterilization and disinfection?",
+    "back": "Sterilization kills all microorganisms including spores. Disinfection does not."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What are the standard conditions for steam sterilizing a wrapped pack?",
+    "back": "121 degrees C (250 degrees F) at about 15 psi for 30 minutes. Follow the manufacturer for other cycles."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which items cannot go in a steam autoclave?",
+    "back": "Heat-sensitive or moisture-sensitive items such as many plastics and electronics."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Name two hazards of ethylene oxide gas.",
+    "back": "It is toxic and a carcinogen, so items must be aerated and the area ventilated."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What type of items suit ethylene oxide or gas plasma sterilization?",
+    "back": "Heat-sensitive items such as plastics and endoscopes."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What does external process indicator tape prove?",
+    "back": "Only that the pack went through a cycle, not that it is sterile."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Where is an internal chemical indicator placed?",
+    "back": "In the centre of the pack, to show steam reached the middle."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which test actually proves a cycle sterilized the load?",
+    "back": "A biological indicator containing spores."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which spore organism is used for steam biological indicators?",
+    "back": "Geobacillus stearothermophilus. Bacillus atrophaeus is used for ethylene oxide and dry heat."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What do you do if a biological indicator is positive?",
+    "back": "Take the load out of use, recall what you can and troubleshoot before the next cycle."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What does event-related shelf life mean?",
+    "back": "A pack stays sterile until an event compromises it, such as a tear, moisture or a drop."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What should you do with a sterilized pack that is wet or torn?",
+    "back": "Treat it as unsterile and resterilize it."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "About how long are healthy adult dogs and cats usually fasted before anesthesia?",
+    "back": "Roughly 4 to 6 hours, with water until premedication, as the veterinarian directs."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Why are rabbits and rodents not fasted before surgery?",
+    "back": "They cannot vomit."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What starting fluid rate during anesthesia is commonly taught for dogs and for cats?",
+    "back": "About 5 mL/kg/hr for dogs and 3 mL/kg/hr for cats, adjusted by the veterinarian."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "A 44 lb dog needs fluids at 5 mL/kg/hr. What is the rate?",
+    "back": "44 lb divided by 2.2 is 20 kg, and 20 times 5 is 100 mL/hr."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Where is the surgical site clipped and why?",
+    "back": "In the prep room, away from the surgical suite, so hair does not spread into the room."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "In what pattern is the surgical scrub applied?",
+    "back": "From the centre outward in a spiral, never returning to the centre with the same sponge."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "How do you dilute 2 percent chlorhexidine to 0.05 percent?",
+    "back": "The factor is 2 divided by 0.05, which is 40, so 1 part stock plus 39 parts water."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "How are the hands held during a surgical hand scrub?",
+    "back": "Hands up and elbows down so water runs from the fingertips to the elbows."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which part of a sterile gown is considered sterile?",
+    "back": "The front from chest to waist and the sleeves, except the cuffs and above the elbow. The back is not sterile."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "At what level is a sterile table considered sterile?",
+    "back": "Only at table height. Anything below the table edge is not sterile."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "How much of a drape's edge is non-sterile?",
+    "back": "The outer 2.5 cm (about 1 inch)."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What is strike-through?",
+    "back": "Moisture wicking microbes through a wet barrier, making the barrier contaminated."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What should a scrubbed person do if unsure whether an item is sterile?",
+    "back": "Treat it as not sterile: when in doubt, throw it out."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What happens to a gloved hand that drops below the waist?",
+    "back": "It is considered contaminated, so change the glove."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What does 4-0 suture mean compared with 3-0?",
+    "back": "More zeros means a smaller diameter, so 4-0 is thinner than 3-0."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which suture type harbours bacteria more readily, monofilament or braided?",
+    "back": "Braided (multifilament) suture, which can wick bacteria. Monofilament passes smoothly."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which needle suits soft tissue such as intestine and bladder?",
+    "back": "A taper (round body) needle, which pierces without cutting."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "Which suture pattern folds tissue into a hollow organ?",
+    "back": "An inverting pattern such as Lembert, Cushing or Connell."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What suture length is commonly taught for a continuous closure?",
+    "back": "About 4 times the length of the incision."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What are the circulating technician's counting duties?",
+    "back": "Count sponges, needles and blades with the scrub person before the incision and before closure, and report any mismatch before closure."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "How must controlled drugs used with anesthesia be handled in Canada?",
+    "back": "They fall under the Controlled Drugs and Substances Act, so keep the logbook and counts accurate."
+  },
+  {
+    "domain": "surgical_nursing",
+    "front": "What is a seroma?",
+    "back": "A soft pocket of serum under the skin, usually not painful."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What four things does general anesthesia provide?",
+    "back": "Unconsciousness, muscle relaxation, loss of pain perception and loss of protective reflexes."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is balanced anesthesia?",
+    "back": "Using several drugs at lower doses so each drug's side effects stay smaller."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is the formula for blood pressure?",
+    "back": "Blood pressure equals cardiac output times systemic vascular resistance."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What MAP is the minimum target under anesthesia?",
+    "back": "At least 60 mmHg, to keep the kidneys and brain perfused. Normal MAP is about 80 to 100 mmHg."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is the normal EtCO2 range?",
+    "back": "35 to 45 mmHg. Above about 50 to 60 mmHg means hypoventilation."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "At what SpO2 do you act immediately?",
+    "back": "Below 90 percent is hypoxemia. The target on oxygen is 95 percent or higher."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Why do anesthetized patients become hypothermic?",
+    "back": "Anesthesia stops shivering and warming behaviour, and small patients lose heat fastest. A heating pad must never touch skin directly."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is ASA I?",
+    "back": "A normal healthy patient."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is ASA II?",
+    "back": "Mild systemic disease, for example mild obesity or a compensated heart murmur."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is ASA III?",
+    "back": "Severe systemic disease, for example uncontrolled diabetes."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is ASA IV?",
+    "back": "Severe disease that is a constant threat to life, for example shock."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What does the letter E added to an ASA grade mean?",
+    "back": "The case is an emergency, for example ASA IIIE."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Which patients are not fasted for long before anesthesia?",
+    "back": "Neonates, pediatric patients, very small patients, rabbits and rodents, because of the risk of low blood sugar. Rabbits and rodents also cannot vomit."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Why is an IV catheter placed in nearly every anesthetized patient?",
+    "back": "It gives fast access for emergency drugs and fluids."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What does an anticholinergic do during anesthesia?",
+    "back": "It blocks vagal tone, raising heart rate and drying secretions. Atropine and glycopyrrolate are examples."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Does acepromazine provide pain relief?",
+    "back": "No. It tranquilizes but gives no analgesia, and it causes vasodilation and low blood pressure."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Which patients need caution with acepromazine?",
+    "back": "Dehydrated or shocked patients, boxers, giant breeds and ABCB1 (MDR1) mutation breeds such as collies."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Name common side effects of opioids.",
+    "back": "Respiratory depression, slow heart rate, panting and vomiting."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What reverses an opioid?",
+    "back": "Naloxone."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What reverses dexmedetomidine or xylazine?",
+    "back": "Atipamezole."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What are the main cardiovascular effects of alpha-2 agonists?",
+    "back": "A large drop in heart rate and vasoconstriction followed by lower cardiac output. Use mainly in healthy patients."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What reverses a benzodiazepine?",
+    "back": "Flumazenil."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How is propofol given for induction?",
+    "back": "Slowly IV to effect. Too fast a dose causes apnea."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How long may an opened propofol syringe be used?",
+    "back": "Only for the time on the label, usually within 6 hours, because it supports bacterial growth."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Which induction drug is a dissociative anesthetic?",
+    "back": "Ketamine, often combined with a benzodiazepine."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What are the side effects of ketamine?",
+    "back": "Rigid muscles, seizures if used alone and raised eye pressure. It keeps blood pressure up."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Why avoid ketamine in a cat with urinary obstruction?",
+    "back": "It is cleared mostly by the kidneys in cats, so effects are prolonged."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Which induction agent suits cardiac or critically ill patients?",
+    "back": "Etomidate. It can suppress adrenal function and cause myoclonus."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What does MAC measure?",
+    "back": "The minimum alveolar concentration that stops movement in 50 percent of patients when stimulated. It is a measure of potency."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Which is more potent, isoflurane or sevoflurane?",
+    "back": "Isoflurane. Its MAC is about 1.3 percent in dogs against about 2.4 percent for sevoflurane."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Why does sevoflurane give faster changes in depth?",
+    "back": "It has lower blood-gas solubility than isoflurane."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Can a vaporizer be used with any inhalant?",
+    "back": "No. Each vaporizer is built for one specific agent."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What are the two steps of any drug calculation?",
+    "back": "Dose in mg equals mg/kg times kg, then volume in mL equals mg divided by mg/mL."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "A dog weighs 25 kg and the order is butorphanol 0.2 mg/kg from a 10 mg/mL vial. What volume?",
+    "back": "0.2 x 25 = 5 mg, then 5 / 10 = 0.5 mL."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "A cat weighs 11 lb. What is its weight in kg?",
+    "back": "11 / 2.2 = 5 kg."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "A 5 kg cat is ordered ketamine 5 mg/kg and the vial is 100 mg/mL. What volume?",
+    "back": "5 x 5 = 25 mg, then 25 / 100 = 0.25 mL."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "A 20 kg dog needs propofol 4 mg/kg from a 10 mg/mL vial. What is the full calculated volume?",
+    "back": "4 x 20 = 80 mg, which is 8 mL. Give a fraction first and more only to effect."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "A 10 kg dog needs fentanyl 5 mcg/kg/hr from a bag of 50 mcg/mL. What rate?",
+    "back": "5 x 10 = 50 mcg/hr, then 50 / 50 = 1 mL/hr."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What are typical maintenance anesthetic fluid rates?",
+    "back": "About 5 mL/kg/hr in dogs and 3 mL/kg/hr in cats. The veterinarian sets the final rate."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "A 20 kg dog is on 5 mL/kg/hr fluids. What is the rate?",
+    "back": "5 x 20 = 100 mL/hr."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is the most common cause of a calculation error in anesthesia?",
+    "back": "A tenfold decimal error or a wrong concentration. Always check the label and use kg."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What does the oxygen flush valve do?",
+    "back": "It sends high-flow oxygen past the vaporizer, which dilutes the anesthetic. Do not use it routinely."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What does the APL (pop-off) valve do?",
+    "back": "It releases excess gas from the circuit. Never leave it closed on a connected patient."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How do you give a manual breath safely?",
+    "back": "Close the APL valve, squeeze the bag to about 15 to 20 cm H2O, then reopen the valve."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is a circle system?",
+    "back": "A rebreathing circuit where exhaled gas passes through a CO2 absorber and is breathed again. Used over about 3 to 5 kg."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Which circuits suit patients under about 3 to 5 kg?",
+    "back": "Non-rebreathing systems such as the Bain, Mapleson D and Jackson-Rees, which have no absorber."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is the minimum fresh gas flow for a Bain or Jackson-Rees circuit?",
+    "back": "About 200 mL/kg/min."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How do you know soda lime is exhausted?",
+    "back": "It changes colour and inspired CO2 rises."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How do you perform a circuit leak test?",
+    "back": "Close the APL valve, occlude the Y-piece, fill to 20 cm H2O and check the pressure holds for at least 10 seconds."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How do you know a charcoal scavenger canister is full?",
+    "back": "It has gained the weight on its label, usually 50 grams. It does not absorb nitrous oxide."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "Where should the tip of the ET tube sit?",
+    "back": "About the level of the thoracic inlet."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What happens if the ET tube is pushed in too far?",
+    "back": "It enters one bronchus, usually the right, giving one-lung ventilation and low SpO2. Pull it back slightly."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is the best confirmation of ET tube placement?",
+    "back": "A capnograph waveform with EtCO2 readings. Fog in the tube and chest rise also help."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What does a missing EtCO2 and a bulging abdomen suggest after intubation?",
+    "back": "The tube is in the esophagus. Remove it and try again."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How is the ET cuff inflated?",
+    "back": "Inflate while squeezing the bag until the leak stops at about 20 cm H2O. Overinflation can tear the trachea."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What must be done to the cuff before moving an intubated patient?",
+    "back": "Deflate it, because moving an inflated tube can injure the trachea."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What is a special intubation risk in cats?",
+    "back": "Laryngospasm. A drop of lidocaine on the larynx helps, and the tube is small."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How should brachycephalic dogs be managed at recovery?",
+    "back": "Keep them intubated until fully awake, with extra tubes and suction ready."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "How often are anesthetic values recorded?",
+    "back": "At least every 5 minutes, and a person stays with the patient."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What signs suggest a surgical plane in a dog?",
+    "back": "Central slightly constricted pupil, slow palpebral reflex, relaxed jaw tone and no response to surgery."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What does a blink and active jaw tone mean?",
+    "back": "The patient is too light."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What cuff width is used for blood pressure measurement?",
+    "back": "About 40 percent of the limb circumference. Too narrow reads falsely high, too wide reads falsely low."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What should you check first when the patient is too light?",
+    "back": "Check the vaporizer and oxygen flow, then notify the veterinarian before adding drugs."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What do you do first for apnea under anesthesia?",
+    "back": "Stop the vaporizer, ventilate with 100 percent oxygen at 8 to 12 breaths per minute and tell the veterinarian."
+  },
+  {
+    "domain": "anesthesia",
+    "front": "What do you do first for low SpO2?",
+    "back": "Check the oxygen supply, tube position and circuit before anything else."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which tube is used for a CBC, and why?",
+    "back": "Lavender (EDTA). EDTA binds calcium to stop clotting and keeps cell shape. It is not suitable for chemistry or coagulation tests."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is the blood to citrate ratio in a light blue tube?",
+    "back": "9 parts blood to 1 part sodium citrate. An underfilled tube gives falsely prolonged clotting times."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which tube type gives serum with no additive?",
+    "back": "Red top. Let it clot about 30 minutes, then centrifuge and separate the serum."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Why does a gray top tube suit glucose samples?",
+    "back": "Sodium fluoride blocks glycolysis, so the cells do not keep using glucose after collection."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is the usual order of draw?",
+    "back": "Blood culture, citrate, serum, heparin, EDTA, fluoride. This limits additive carry-over."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What happens to a serum sample contaminated with EDTA?",
+    "back": "Potassium rises and calcium falls, because EDTA contains potassium and binds calcium."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is the effect of hemolysis on a chemistry sample?",
+    "back": "It can raise potassium, AST and phosphorus and interfere with colour-based tests. Forcing blood through a needle is a common cause."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "How do you reduce lipemia in a blood sample?",
+    "back": "Fast the patient 8 to 12 hours before collection."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What does yellow plasma in a spun hematocrit tube suggest?",
+    "back": "Icterus, from high bilirubin. Pink plasma suggests hemolysis and cloudy plasma suggests lipemia."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What two identifiers belong on every tube and slide?",
+    "back": "Patient name or ID and the owner's name, plus date and sample type, written at the bedside."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Within how long should serum or plasma be separated from the cells?",
+    "back": "About 2 hours. Glucose falls if serum sits on cells because the cells keep using it."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What fixative and ratio are used for histopathology tissue?",
+    "back": "10 percent neutral buffered formalin at about 10 parts to 1 part tissue, in pieces no thicker than 1 cm."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Why should blood smears not be shipped with formalin?",
+    "back": "Formalin fumes ruin the Romanowsky stain. Ship smears air-dried and separate."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which Canadian rules apply to couriering diagnostic specimens?",
+    "back": "Transportation of Dangerous Goods requirements: leak-proof primary container, absorbent material and the outer packaging the reference lab specifies."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is the normal PCV range for a dog and for a cat?",
+    "back": "Dog 0.37 to 0.55 L/L (37 to 55 percent); cat 0.30 to 0.45 L/L (30 to 45 percent)."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What does a low PCV with low total protein suggest?",
+    "back": "Blood loss. A low PCV with normal or high protein suggests hemolysis or poor production."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What does a high PCV with high total protein suggest?",
+    "back": "Dehydration, since both red cells and plasma protein are concentrated."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is a good blood smear like?",
+    "back": "A feathered edge and a monolayer where cells touch but do not overlap, air-dried fast and then stained."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What angle is the spreader slide held at when making a smear?",
+    "back": "About 30 to 45 degrees, pushed in one smooth motion."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "How do you estimate platelets on a smear?",
+    "back": "Average platelets per oil field over 10 fields, then multiply by about 15 to 20 x10^9/L. Check for clumps."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is the typical stress leukogram in a dog?",
+    "back": "Mature neutrophilia, lymphopenia, eosinopenia and monocytosis."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What does a left shift mean?",
+    "back": "Increased band neutrophils in blood, which is a sign of inflammation. Toxic change may be seen too."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "How is a corrected reticulocyte percentage calculated?",
+    "back": "Reticulocyte % x (patient PCV / normal PCV). Example: 6 x (20/45) = 2.67 percent."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is the absolute reticulocyte count formula, and the dog regenerative cutoff?",
+    "back": "Reticulocyte % x RBC count. A dog with an absolute count above about 60 x10^9/L is regenerative."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "How do you correct a WBC count for nucleated red cells?",
+    "back": "WBC x 100 / (100 + nRBC per 100 WBC). Example: 20 x 100 / 125 = 16 x10^9/L."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "A dog has WBC 15 x10^9/L and 70 percent neutrophils. What is the absolute neutrophil count?",
+    "back": "15 x 0.70 = 10.5 x10^9/L."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which red cell finding points to immune-mediated hemolytic anemia in a dog?",
+    "back": "Spherocytes and autoagglutination. A drop of blood with saline that stays clumped confirms agglutination."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What stain shows Heinz bodies, and in which species are they classic?",
+    "back": "New methylene blue. They are classic in cats after oxidative injury such as acetaminophen."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which coagulation value rises first with early rodenticide toxicity?",
+    "back": "PT, because factor VII has the shortest half-life, so aPTT stays normal at first."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What do you convert glucose from mg/dL to mmol/L with?",
+    "back": "Divide mg/dL by 18. A dog value of 90 mg/dL is 5.0 mmol/L."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "How do you convert creatinine from mg/dL to umol/L?",
+    "back": "Multiply by 88.4. A value of 1.5 mg/dL is about 133 umol/L."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which instrument measures urine specific gravity reliably?",
+    "back": "A refractometer, calibrated with distilled water to 1.000. Dipstick SG pads are unreliable in animals."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What urine SG range is isosthenuria, and what is concentrated in a cat?",
+    "back": "Isosthenuria is 1.008 to 1.012. A cat concentrates above 1.035 and a dog above 1.030."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which urine collection method is best for culture?",
+    "back": "Cystocentesis, which avoids contamination from the lower tract and skin."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is the urine sediment procedure?",
+    "back": "Centrifuge about 5 mL for 5 minutes at 1,000 to 1,500 rpm, pour off most supernatant leaving 0.5 to 1 mL, resuspend and examine a drop under a coverslip."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which urine crystals form in alkaline urine with a urease infection?",
+    "back": "Struvite, with coffin-lid shapes."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Why is bilirubinuria more significant in a cat than a dog?",
+    "back": "Any bilirubin in cat urine is abnormal. Small amounts can be normal in concentrated dog urine."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Which pad on a urine dipstick is unreliable in dogs and cats?",
+    "back": "The leukocyte esterase pad, along with urobilinogen."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "How does a fecal flotation solution work, and which suits Giardia?",
+    "back": "The solution is denser than most eggs so they rise to the coverslip. Zinc sulfate (about 1.18) preserves Giardia cysts."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Describe a hookworm egg compared with a roundworm egg.",
+    "back": "Hookworm eggs are oval and thin-shelled with 4 to 8 cells inside. Roundworm eggs are round with a thick pitted shell."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What does a heartworm antigen test detect?",
+    "back": "Antigen from adult female worms. It can be negative in early infection or in a cat with few worms."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "Why is a Wood's lamp negative result not a ringworm rule-out?",
+    "back": "Only some Microsporum canis strains fluoresce apple green, so culture or microscopy is needed."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What is the best way to find Demodex mites?",
+    "back": "A deep skin scrape until capillary bleeding."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What does MacConkey agar select for?",
+    "back": "Gram-negative bacteria. Lactose fermenters grow pink."
+  },
+  {
+    "domain": "laboratory_procedures",
+    "front": "What colours do gram-positive and gram-negative bacteria stain?",
+    "back": "Gram-positive purple and gram-negative pink to red. Over-decolourizing makes gram-positive cells look pink."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is the adult dog dental formula and total tooth count?",
+    "back": "2 x (I 3/3, C 1/1, P 4/4, M 2/3) = 42 permanent teeth."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is the adult cat dental formula and total tooth count?",
+    "back": "2 x (I 3/3, C 1/1, P 3/2, M 1/1) = 30 permanent teeth."
+  },
+  {
+    "domain": "dentistry",
+    "front": "How many deciduous teeth do puppies and kittens have?",
+    "back": "Puppies have 28 and kittens have 26. Neither has deciduous molars."
+  },
+  {
+    "domain": "dentistry",
+    "front": "By about what age should all permanent teeth be erupted in dogs and cats?",
+    "back": "About 6 to 7 months of age."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is a retained deciduous tooth and who treats it?",
+    "back": "A baby tooth still present beside its erupted permanent tooth. The veterinarian extracts it."
+  },
+  {
+    "domain": "dentistry",
+    "front": "Which teeth are the carnassials in dogs and cats?",
+    "back": "The upper fourth premolar and the lower first molar."
+  },
+  {
+    "domain": "dentistry",
+    "front": "How many roots do the upper fourth premolar and lower first molar have?",
+    "back": "The upper fourth premolar has three roots and the lower first molar has two."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is the hardest tissue in the body, and can it repair itself?",
+    "back": "Enamel. It has no living cells and cannot repair itself."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is the periodontium?",
+    "back": "The supporting tissues of the tooth: gingiva, periodontal ligament, cementum and alveolar bone."
+  },
+  {
+    "domain": "dentistry",
+    "front": "Define mesial and distal.",
+    "back": "Mesial is toward the midline along the arch. Distal is away from the midline."
+  },
+  {
+    "domain": "dentistry",
+    "front": "Which surface of a premolar faces the cheek?",
+    "back": "The buccal surface."
+  },
+  {
+    "domain": "dentistry",
+    "front": "In the Modified Triadan system, what does the first digit of 3 mean?",
+    "back": "A permanent tooth in the left lower quadrant."
+  },
+  {
+    "domain": "dentistry",
+    "front": "In the Modified Triadan system, which digits mean deciduous quadrants?",
+    "back": "5 right upper, 6 left upper, 7 left lower, 8 right lower."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What Triadan number is the right upper carnassial of a dog?",
+    "back": "108."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What Triadan number is the right lower canine of an adult dog?",
+    "back": "404. The canine is always 04."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What Triadan number is the left upper canine of a puppy?",
+    "back": "604."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What Triadan number is the left lower first molar?",
+    "back": "309, the left lower carnassial."
+  },
+  {
+    "domain": "dentistry",
+    "front": "How is plaque different from calculus?",
+    "back": "Plaque is a soft film of bacteria and residue. Calculus is plaque that has mineralized, within days, and is rough."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is the difference between gingivitis and periodontitis?",
+    "back": "Gingivitis is gum inflammation only and is reversible. Periodontitis involves attachment loss of the PDL and bone and is not reversible."
+  },
+  {
+    "domain": "dentistry",
+    "front": "How is periodontal disease staged?",
+    "back": "By attachment loss: Stage 1 gingivitis only, 2 under 25 percent, 3 25 to 50 percent, 4 over 50 percent."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What does a pink or purple tooth after trauma suggest?",
+    "back": "Bleeding into the pulp and probably a nonvital tooth. Take radiographs."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is the most common oral cancer in cats?",
+    "back": "Squamous cell carcinoma."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is a base narrow canine?",
+    "back": "A lower canine that angles inward and contacts the palate or upper gum."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What is the most important rule about polishing after scaling?",
+    "back": "Always polish after scaling, because scaling scratches enamel. Never polish an unscaled tooth."
+  },
+  {
+    "domain": "dentistry",
+    "front": "How long should a prophy cup stay on one tooth?",
+    "back": "About 3 to 5 seconds with light pressure, because longer contact makes heat that can injure the pulp."
+  },
+  {
+    "domain": "dentistry",
+    "front": "Why is a cuffed endotracheal tube required for dental procedures?",
+    "back": "It protects the airway from aspiration of water, plaque and debris."
+  },
+  {
+    "domain": "dentistry",
+    "front": "A 20 kg dog is on a 5 mL/kg/hr fluid rate for a dental. What is the pump rate?",
+    "back": "20 x 5 = 100 mL/hr."
+  },
+  {
+    "domain": "dentistry",
+    "front": "A 5 kg cat is limited to bupivacaine 1 mg/kg. How many mL of 0.5 percent is the maximum?",
+    "back": "5 mg total. 0.5 percent is 5 mg/mL, so 1 mL."
+  },
+  {
+    "domain": "dentistry",
+    "front": "How do you make 200 mL of 0.12 percent chlorhexidine from a 2 percent stock?",
+    "back": "12 mL of stock plus 188 mL water, since 2 x 12 = 0.12 x 200."
+  },
+  {
+    "domain": "dentistry",
+    "front": "Which instrument is used below the gum line, a sickle scaler or a curette?",
+    "back": "The curette, which has a rounded toe. The pointed sickle is for above the gum only."
+  },
+  {
+    "domain": "dentistry",
+    "front": "How do you test if a hand instrument is sharp?",
+    "back": "Use a plastic test stick. A sharp edge bites in, a dull edge slides."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What must always be running when using an ultrasonic scaler or high-speed handpiece?",
+    "back": "Water, to cool the tip and prevent heat damage to the pulp."
+  },
+  {
+    "domain": "dentistry",
+    "front": "When is the bisecting angle technique used?",
+    "back": "For upper teeth and lower incisors and canines, where the receptor cannot lie parallel. Aim the beam at a right angle to the line bisecting the tooth and receptor angle."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What error results if the beam is too close to perpendicular to the receptor?",
+    "back": "Foreshortening, so the tooth looks too short."
+  },
+  {
+    "domain": "dentistry",
+    "front": "What does a tooth with a wider pulp chamber than its opposite partner suggest?",
+    "back": "It is probably nonvital, because dead pulp stops laying down dentin."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What are the four main types of shock?",
+    "back": "Hypovolemic, cardiogenic, distributive and obstructive."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What signs mark compensatory shock in a dog?",
+    "back": "Tachycardia, bright red or injected membranes, CRT under 1 second and bounding pulses."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "How does a cat in shock usually differ from a dog?",
+    "back": "Cats are often bradycardic and hypothermic with pale membranes and weak pulses, so do not wait for tachycardia."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What is hypotension by Doppler in a dog or cat?",
+    "back": "A systolic pressure below 90 mmHg or a mean arterial pressure below 60 mmHg."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What is the normal urine output in a hospitalized patient?",
+    "back": "1 to 2 mL/kg/hr. Under 1 mL/kg/hr is oliguria and is reported."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What do you do first when a dyspneic cat arrives?",
+    "back": "Give oxygen by flow-by and keep stress low. Do not restrain for radiographs until stable."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What is the primary survey order?",
+    "back": "Airway, breathing, circulation, then disability and exposure."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What compression rate does CPR use in dogs and cats?",
+    "back": "100 to 120 compressions per minute."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "How deep are chest compressions in CPR?",
+    "back": "One third to one half of the chest width, with full recoil."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "How often should CPR compressors rotate?",
+    "back": "Every 2 minutes, to keep compressions effective."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "How is ventilation delivered once the patient is intubated during CPR?",
+    "back": "About 10 breaths per minute, about 1 second each, without pausing compressions."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What compression to breath ratio is used without an airway?",
+    "back": "30 compressions to 2 breaths."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Which ECG rhythms are shockable during CPR?",
+    "back": "Ventricular fibrillation and pulseless ventricular tachycardia."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What is the low dose epinephrine dose in CPR?",
+    "back": "0.01 mg/kg IV, repeated every 3 to 5 minutes."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What is the dose of atropine for asystole or high vagal tone arrest?",
+    "back": "0.04 mg/kg IV."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What does a sudden rise in ETCO2 during CPR suggest?",
+    "back": "Possible return of spontaneous circulation."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What is the shock fluid dose for a dog and for a cat?",
+    "back": "Dog up to 90 mL/kg in the first hour, cat up to 40 to 60 mL/kg."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "How is a shock bolus given?",
+    "back": "One quarter to one third of the dose over 15 minutes, then reassess."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Calculate: a 20 kg dog needs a quarter of a 90 mL/kg shock dose. How many mL?",
+    "back": "90 x 20 = 1,800 mL, and one quarter is 450 mL, given over 15 minutes."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Which fluid can be mixed with blood products?",
+    "back": "Only 0.9 percent sodium chloride. Lactated Ringer's has calcium and can cause clotting."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Why must a cat be blood typed before its first transfusion?",
+    "back": "Cats have natural alloantibodies, and a type B cat given type A blood can have a fatal reaction."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Which dog blood group makes a universal donor?",
+    "back": "A DEA 1 negative dog."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What is the starting rate for a blood transfusion?",
+    "back": "0.25 mL/kg/hr for the first 15 to 30 minutes while watching for a reaction."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Within how many hours should a unit of blood be finished?",
+    "back": "4 hours."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What do you do if a transfusion reaction occurs?",
+    "back": "Stop the transfusion, keep IV access with saline and alert the veterinarian."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Calculate: a 20 kg dog, PCV 15, goal 25, donor PCV 40. Whole blood volume?",
+    "back": "20 x 90 x 10 / 40 = 450 mL."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "At what rectal temperature do you stop active cooling for heat stroke?",
+    "back": "39.5 degrees C."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Which toxin causes low blood sugar and liver failure in dogs?",
+    "back": "Xylitol."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What is the antidote for anticoagulant rodenticide toxicity?",
+    "back": "Vitamin K1, given for weeks."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "When is inducing vomiting contraindicated?",
+    "back": "After caustics, hydrocarbons or sharp objects, and in seizing, depressed or dyspneic patients."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Why is hydrogen peroxide not used to induce vomiting in cats?",
+    "back": "It is not safe for cats, so the veterinarian chooses another emetic."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "What ECG changes occur with hyperkalemia in an obstructed cat?",
+    "back": "Bradycardia, tented T waves, flattened or absent P waves and a wide QRS."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "How does calcium gluconate help hyperkalemia?",
+    "back": "It protects the heart but does not lower the potassium."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "Calculate RER for a 10 kg dog using the linear formula.",
+    "back": "30 x 10 + 70 = 370 kcal/day."
+  },
+  {
+    "domain": "emergency_medicine_and_critical_care",
+    "front": "At what oxygen level and duration does oxygen toxicity become a risk?",
+    "back": "More than 60 percent oxygen for more than 24 hours."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Name the four steps of the nociception pathway in order.",
+    "back": "Transduction (stimulus becomes an electrical signal at the nociceptor), transmission (signal travels to the spinal cord and brain), modulation (signal is amplified or dampened in the spinal cord), and perception (the brain registers pain)."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Which nerve fibres carry fast, sharp pain and which carry slow, dull, aching pain?",
+    "back": "A-delta fibres carry fast, sharp, well-localized pain. C fibres carry slow, dull, burning or aching pain that is harder to localize."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What is central sensitization (wind-up) and why does it matter for treatment?",
+    "back": "Repeated painful input makes spinal cord neurons hyperexcitable through NMDA receptor activation, so normal touch can hurt and pain is felt more strongly. Treating pain early and with several drug classes helps prevent it."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What is the difference between hyperalgesia and allodynia?",
+    "back": "Hyperalgesia is an exaggerated response to a stimulus that is normally painful. Allodynia is pain caused by a stimulus that is not normally painful, such as light touch."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What is multimodal analgesia?",
+    "back": "Using two or more drug classes or techniques that act at different points on the pain pathway, such as an opioid plus an NSAID plus a local block. It gives better relief with lower doses of each drug and fewer side effects."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What is pre-emptive analgesia?",
+    "back": "Giving analgesics before the painful stimulus, such as before surgery. It reduces central sensitization and lowers the amount of analgesia needed afterward."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Does the absence of vocalizing mean an animal is not in pain?",
+    "back": "No. Many animals, especially cats and prey species such as rabbits and birds, hide pain. Quiet, hiding, reduced appetite and reluctance to move can all be signs of significant pain."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "List common behavioural signs of pain in a dog.",
+    "back": "Whimpering or yelling, guarding or licking an area, restlessness or hiding, reluctance to move or rise, hunched posture, panting, decreased appetite, and sometimes aggression when touched."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "List common signs of pain in a cat.",
+    "back": "Hiding, hunched posture with eyes squinted, reduced grooming, decreased appetite, reluctance to jump, hissing or growling when approached, and sometimes sitting motionless at the back of the cage."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Which facial features does the Feline Grimace Scale score?",
+    "back": "Ear position, orbital tightening, muzzle tension, whisker position and head position. Each is scored 0 to 2."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What score on the short form Glasgow Composite Measure Pain Scale suggests a dog needs analgesia?",
+    "back": "A total of 6 or more out of 24 (or 5 or more out of 20 if mobility cannot be assessed) suggests analgesia is needed. The result is a guide and the veterinarian makes the final decision."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Why should pain scores be repeated and recorded?",
+    "back": "A single score is a snapshot. Reassessing at regular intervals and after each drug shows whether the plan works, lets the veterinarian adjust it, and documents patient comfort in the medical record."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Name four full mu agonist opioids used in small animal practice.",
+    "back": "Morphine, hydromorphone, fentanyl and methadone (oxymorphone is also a full mu agonist). They give strong analgesia for moderate to severe pain."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "How does buprenorphine differ from full mu agonists?",
+    "back": "It is a partial mu agonist with high receptor affinity. It gives mild to moderate analgesia, lasts about 6 to 8 hours, and is hard to reverse with naloxone. It is well absorbed across the oral mucosa in cats."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "How does butorphanol differ from morphine in analgesic strength and duration?",
+    "back": "Butorphanol is a kappa agonist and mu antagonist. It gives only mild, short-lived analgesia (often 1 to 2 hours) with good sedation and cough suppression, so it is not suited to severe pain."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What are common side effects of opioids?",
+    "back": "Sedation, respiratory depression, bradycardia, panting, vomiting (especially morphine in dogs), decreased gut motility, urinary retention and, in some animals, dysphoria or excitement."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "How is opioid overdose or marked respiratory depression treated?",
+    "back": "Support ventilation and oxygen, then give naloxone as ordered by the veterinarian. Naloxone lasts a shorter time than most opioids, so watch for the animal slipping back into depression and re-dosing may be needed."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Why is morphine given slowly or by IM injection rather than as a rapid IV bolus?",
+    "back": "Morphine can release histamine, and a fast IV bolus may cause hypotension and itching. A slow injection or the IM route reduces this."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Calculate: a 20 kg dog is ordered morphine 0.5 mg/kg IM. The vial is 15 mg/mL. How many mL?",
+    "back": "20 kg x 0.5 mg/kg = 10 mg. 10 mg / 15 mg/mL = 0.67 mL."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Calculate: a fentanyl CRI of 5 mcg/kg/hr is ordered for a 10 kg dog. Fentanyl is 50 mcg/mL. What pump rate in mL/hr?",
+    "back": "10 kg x 5 mcg/kg/hr = 50 mcg/hr. 50 mcg/hr / 50 mcg/mL = 1 mL/hr."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What is the usual delay before a fentanyl patch gives effective analgesia?",
+    "back": "Roughly 12 to 24 hours, so another analgesic is needed in the meantime. Patches must be kept away from heat, and the used patch is a controlled-drug hazard to children and other pets."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Under which Canadian law are opioids, ketamine and benzodiazepines controlled, and what record is required?",
+    "back": "The Controlled Drugs and Substances Act. The clinic must keep secure storage and a controlled drug log recording each drug received, used and wasted, with regular counts."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What is the mechanism of NSAIDs?",
+    "back": "They inhibit cyclooxygenase (COX) enzymes, reducing prostaglandins that cause inflammation, pain and fever. Blocking protective prostaglandins is also what causes the GI and kidney side effects."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "List the main adverse effects of NSAIDs in dogs and cats.",
+    "back": "Vomiting, diarrhea, GI ulceration and bleeding, kidney injury (especially with dehydration or hypotension) and liver injury. Clients should stop the drug and call if the pet vomits, has black stool or stops eating."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Why must NSAIDs not be given together with corticosteroids?",
+    "back": "The combination greatly raises the risk of GI ulceration and perforation. A washout period set by the veterinarian is needed when switching between the two."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Why must owners never give human ibuprofen, naproxen or acetaminophen to pets?",
+    "back": "Ibuprofen and naproxen cause serious ulcers and kidney failure in dogs and cats. Acetaminophen is especially toxic to cats, damaging red blood cells and the liver."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Calculate: a 30 kg dog is ordered meloxicam 0.1 mg/kg. The oral suspension is 1.5 mg/mL. How many mL?",
+    "back": "30 kg x 0.1 mg/kg = 3 mg. 3 mg / 1.5 mg/mL = 2 mL."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Compare lidocaine and bupivacaine as local anesthetics.",
+    "back": "Lidocaine has fast onset and a short duration (about 1 to 2 hours). Bupivacaine is slower to start but lasts roughly 4 to 8 hours, and is more cardiotoxic if injected intravenously by mistake."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What safety step is done before injecting a local anesthetic for a nerve block?",
+    "back": "Aspirate to confirm the needle is not in a vessel, and keep to the maximum dose. Cats tolerate lower doses than dogs, so the calculation must use the patient's species and weight."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What are the effects of alpha-2 agonists such as dexmedetomidine, and how are they reversed?",
+    "back": "Sedation and analgesia, with bradycardia and peripheral vasoconstriction (pale mucous membranes). Atipamezole reverses them, which also reverses their analgesia."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What conditions is gabapentin commonly used for?",
+    "back": "Chronic and neuropathic pain, often as part of multimodal therapy. Its main side effect is sedation, and it is also used before visits to reduce anxiety in cats."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What is the role of low-dose ketamine in pain control?",
+    "back": "Ketamine blocks NMDA receptors, which reduces wind-up. It is given as a low-dose CRI with opioids for severe or chronic pain. It is a controlled drug in Canada."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What non-drug measures support pain management in hospitalized patients?",
+    "back": "Soft, clean, dry bedding, a quiet low-stress area, gentle handling, cold packs for the first days after injury or surgery then warmth, passive range of motion, turning recumbent patients, and short, calm walks when allowed."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "What do you do first if a postoperative patient scores high on the pain scale?",
+    "back": "Check that the patient is stable, tell the veterinarian right away with the score and observations, give the ordered rescue analgesic, and reassess after the drug has had time to act."
+  },
+  {
+    "domain": "pain_management_and_analgesia",
+    "front": "Which clinical signs commonly indicate pain in a horse with colic?",
+    "back": "Pawing, flank watching, rolling, repeated lying down and getting up, stretching out, sweating and an elevated heart rate. Heart rate above about 60 beats per minute suggests severe pain."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What does kVp control on a radiograph?",
+    "back": "Beam energy and penetration, so it controls contrast. Higher kVp gives a greyer, lower contrast image."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What does mAs control on a radiograph?",
+    "back": "The quantity of x-rays made, so it controls density. More mAs gives a darker image."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "A radiograph is too light. Which setting do you raise?",
+    "back": "Raise the mAs (or the kVp). Too little exposure makes an underexposed, light image."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What is the 15 percent rule?",
+    "back": "Raising kVp by 15 percent has about the same effect on density as doubling mAs. Lowering kVp by 15 percent matches halving mAs."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "You expose at 70 kVp and 10 mAs, then raise kVp by 15 percent. What mAs keeps the same density?",
+    "back": "New kVp is 70 x 1.15 = 80.5. Halve the mAs to 5."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "State the inverse square law for x-rays.",
+    "back": "Beam intensity is inversely proportional to the square of the distance. Doubling the distance gives one quarter of the intensity."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "10 mAs works at 100 cm. What mAs is needed at 80 cm?",
+    "back": "mAs2 = 10 x (80 / 100) squared = 10 x 0.64 = 6.4 mAs. Closer means less mAs."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "How do you pick settings from a technique chart?",
+    "back": "Measure the thickest part of the area in cm with calipers and read the kVp and mAs for that thickness on the chart for your machine."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "When is a grid used?",
+    "back": "When the part is thicker than about 10 cm. It absorbs scatter and sharpens the image, but you must raise the technique."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What does grid cutoff look like and what causes it?",
+    "back": "A loss of density in a band or at the edges. The grid is off centre, tilted, upside down or at the wrong distance."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What does collimation do?",
+    "back": "It narrows the beam to the area of interest, lowering dose and scatter and improving image quality."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What is the heel effect and how do you use it?",
+    "back": "The beam is weaker on the anode side. Put the thicker end of the part toward the cathode side."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What does ALARA stand for?",
+    "back": "As low as reasonably achievable. Use time, distance and shielding to keep exposure low."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "How do you keep a dog still for a radiograph without holding it?",
+    "back": "Sedation or anesthesia plus sandbags, tape, troughs and positioning aids. Nobody holds the patient routinely."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "Do lead gloves allow a hand in the primary beam?",
+    "back": "No. Gloves stop scatter only. No part of the body should ever be in the primary beam."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "Where do you wear a dosimeter badge?",
+    "back": "At collar level, outside the lead apron, facing the tube. Keep a control badge away from radiation."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "How should lead aprons be stored?",
+    "back": "Hung on a rack or laid flat, never folded, because folding cracks the lead. Inspect them on a schedule."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "Name the five radiographic opacities from darkest to brightest.",
+    "back": "Gas, fat, soft tissue and fluid, bone, metal."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What does a right lateral radiograph mean?",
+    "back": "The animal lies on its right side, with the right side closest to the detector."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What is the difference between a VD and a DV view?",
+    "back": "VD: the beam enters the belly side, so the animal is on its back. DV: the beam enters at the back, so the animal is on its belly."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "When in the breathing cycle is a chest radiograph taken?",
+    "back": "At peak inspiration, when the lungs are full of air."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "When is an abdominal radiograph taken?",
+    "back": "At the end of expiration."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "A cat's chest radiograph is blurred. What is the fix?",
+    "back": "Shorten the exposure time by using a higher mA, and sedate if needed. The blur is motion."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What should every radiograph carry for labelling?",
+    "back": "Patient name, owner or file number, date, clinic and a left or right marker placed in the field at the time of exposure."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "How many views of the chest are standard?",
+    "back": "Three: right and left laterals plus a VD or DV."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What does an anechoic structure on ultrasound mean?",
+    "back": "No echoes, shown black. It is fluid, such as urine or bile."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What frequency probe suits a large deep dog versus a cat?",
+    "back": "Lower frequency (3 to 5 MHz) for deep, large patients. Higher frequency (7.5 to 12 MHz) for small patients and shallow organs."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "Why clip the hair and use gel for ultrasound?",
+    "back": "Air trapped in hair or between probe and skin blocks sound and ruins the image."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "Which contrast agent is used if gut perforation is suspected?",
+    "back": "A water soluble iodinated agent. Barium leaking into the abdomen can cause peritonitis."
+  },
+  {
+    "domain": "diagnostic_imaging",
+    "front": "What risk comes with iodinated contrast and how do you reduce it?",
+    "back": "It is cleared by the kidneys, so dehydrated or renal patients are at risk. Hydrate the patient and monitor for reactions."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What does the VTNE passing score of 425 represent?",
+    "back": "It is a scaled score on a 200 to 800 scale, not a percentage. The number of correct answers does not convert directly to a percent."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "How many questions are on the VTNE and how long do candidates have?",
+    "back": "150 scored plus 20 unscored multiple choice questions, in 3 hours. Candidates cannot tell which are unscored."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "Who regulates registration of veterinary technicians in Canada?",
+    "back": "Each province, through its own association or college. The candidate must confirm current steps, fees and retake limits with their own regulator."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "Which Canadian provinces does the AAVSB list as regulated RVT provinces (Aug 2025 list)?",
+    "back": "Alberta, Manitoba, Nova Scotia, Ontario and Saskatchewan. Lists change, so confirm with your regulator."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What is the teach-back method?",
+    "back": "Ask the client to explain the instructions back in their own words. It tests how well you explained, not the client."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What are the four parts of a SOAP entry?",
+    "back": "Subjective (client report), Objective (measured findings), Assessment (problem or diagnosis by the veterinarian), Plan (treatments, diagnostics, instructions)."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "How do you correct an error in a paper medical record?",
+    "back": "Draw one line through it so it stays legible, write error with the date and your initials, and add the correct entry. Never erase or white out."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What is signalment?",
+    "back": "The basic description of the patient: species, breed, age, sex and reproductive status, and often color and weight."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "A client asks a technician whether the lump is cancer. What is the correct response?",
+    "back": "Explain that the veterinarian will go over the results, and arrange that conversation. Technicians do not diagnose or give a prognosis."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What should you do first when a client is angry?",
+    "back": "Stay calm, listen without interrupting, and acknowledge the feeling. Then state what you can do and involve the veterinarian or manager if needed."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "Who may receive patient and owner information without extra consent?",
+    "back": "The owner, the care team, people the owner has authorized, and where the law requires it. A neighbour or non-owner relative is not entitled to details."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What is closed-loop communication in an emergency?",
+    "back": "The receiver repeats the order back, carries it out, then confirms it is done, for example giving the drug and name and dose. This prevents dosing errors."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What must be checked before a euthanasia begins?",
+    "back": "The signed consent from the owner or authorized agent, and that the patient identification matches the form."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "Which body signs does the veterinarian use to confirm death after euthanasia?",
+    "back": "Absence of heartbeat and breathing and loss of the corneal reflex."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What normal reactions may follow euthanasia that clients should be told about?",
+    "back": "Muscle twitches, a deep breath after the heart stops, urination or defecation and open eyes. These are not signs of pain."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "Which drug class is commonly used for euthanasia and how is it stored?",
+    "back": "A barbiturate such as pentobarbital, given intravenously by the veterinarian. It is a controlled substance, locked and logged."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What should a controlled drug log entry record?",
+    "back": "Date, patient, drug, amount used, amount wasted, remaining balance and who gave it. Stock is counted against the log and discrepancies are reported to the veterinarian at once."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "Which Canadian law controls opioids, ketamine, benzodiazepines and barbiturates?",
+    "back": "The Controlled Drugs and Substances Act (CDSA)."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "Name injuries that suggest animal abuse rather than accident.",
+    "back": "Injuries that do not match the history, fractures at different stages of healing, burns, rope or wire marks and patterned bruising."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What should a technician do when abuse is suspected?",
+    "back": "Document objectively, tell the veterinarian right away, and do not accuse or confront the owner. The veterinarian decides what is reported."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What is the first step in crisis intervention?",
+    "back": "Make sure everyone is safe, including yourself. Then stay calm, listen, and bring in the veterinarian or manager if needed."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What is compassion fatigue?",
+    "back": "A gradual loss of empathy and energy after prolonged exposure to suffering. Support includes breaks, peer support, debriefing and professional help."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "A technician realizes they gave the wrong dose. What should they do?",
+    "back": "Tell the veterinarian immediately so the patient can be treated, then document the event factually. Hiding errors is the worst choice."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "What does informed consent require?",
+    "back": "The owner understands the procedure, risks, benefits, alternatives and cost, and agrees voluntarily. The veterinarian explains the medical details."
+  },
+  {
+    "domain": "communication_and_veterinary_professional_support_services",
+    "front": "Why should pregnant clients avoid cleaning cat litter boxes?",
+    "back": "Cat feces can carry Toxoplasma gondii, a zoonotic parasite that can harm a developing fetus."
+  }
+]
